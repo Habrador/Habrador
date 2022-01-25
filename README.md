@@ -22,6 +22,7 @@ I'm Erik Nordeus. I'm an imagineer (creative engineer) who's designing mostly Un
 * [Tesla Simulator Game](https://habrador.itch.io/tesla-motors-simulator)
 * [Portfolio](https://www.habrador.com)
 * [Unity Tutorials](https://www.habrador.com/tutorials/)
+* [Blog](https://blog.habrador.com/)
 	
   
 ## FAQ
