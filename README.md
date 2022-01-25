@@ -1,6 +1,6 @@
-## Hi, I'm Erik
+## Hi!
 
-I'm Erik Nordeus. I'm an imagineer (creative engineer) who's designing Unity and Blender projects. I have a masters degree in Mechanical Engineering from the Royal Institute of Technology in Stockholm, Sweden, where I also live. 
+I'm Erik Nordeus. I'm an imagineer (creative engineer) who's designing mostly Unity and Blender projects. I have a master's degree in Mechanical Engineering from the Royal Institute of Technology (KTH) in Stockholm, Sweden, where I also live. 
 
 
 ## Experiences
@@ -16,7 +16,7 @@ I'm Erik Nordeus. I'm an imagineer (creative engineer) who's designing Unity and
 * [Twitter](https://www.twitter.com/eriknordeus)
 * [Artstation](https://artstation.com/eriknordeus)
 * [Goodreads](https://www.goodreads.com/eriknordeus)
-* [YouTube](https://www.youtube.com/user/eriknordeus/)
+* [YouTube](https://www.youtube.com/user/eriknordeus)
 * [Kaggle](https://www.kaggle.com/eriknordeus)
 * [Itch](https://habrador.itch.io/)
 * [Tesla Simulator](https://habrador.itch.io/tesla-motors-simulator)
@@ -30,4 +30,4 @@ I'm Erik Nordeus. I'm an imagineer (creative engineer) who's designing Unity and
 
 ## Final note
 
-Thank you everyone who has used and contributed to my open source projects! 
+**THANK YOU** everyone who has used and contributed to my open source projects! 
