@@ -7,10 +7,10 @@ I'm Erik Nordeus. I'm an imagineer (creative engineer) who's designing mostly Un
 
 **Programming languages:** C#, Python, JavaScript, HTML, CSS, MATLAB, PHP, MySQL
 
-**Software:** Visual Studio, Blender, Unity, Krita
+**Software:** [Visual Studio](https://visualstudio.microsoft.com/), [Blender](https://www.blender.org/), [Unity](https://unity.com/), [Krita](https://krita.org/)
 
 
-## Socials
+## Links
 
 * [Linktree](https://linktr.ee/eriknordeus)
 * [Twitter](https://www.twitter.com/eriknordeus)
@@ -19,8 +19,9 @@ I'm Erik Nordeus. I'm an imagineer (creative engineer) who's designing mostly Un
 * [YouTube](https://www.youtube.com/user/eriknordeus)
 * [Kaggle](https://www.kaggle.com/eriknordeus)
 * [Itch](https://habrador.itch.io/)
-* [Tesla Simulator](https://habrador.itch.io/tesla-motors-simulator)
+* [Tesla Simulator Game](https://habrador.itch.io/tesla-motors-simulator)
 * [Portfolio](https://www.habrador.com)
+* [Unity Tutorials](https://www.habrador.com/tutorials/)
 	
   
 ## FAQ
