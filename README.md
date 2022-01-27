@@ -5,7 +5,7 @@ I'm Erik Nordeus. I'm an imagineer (creative engineer) who's designing mostly Un
 
 ## Experiences
 
-**Programming languages:** C#, Python, JavaScript, HTML, CSS, MATLAB, PHP, MySQL
+**Programming languages:** C# • Python • JavaScript • HTML • CSS • MATLAB • PHP • MySQL
 
 **Software:** [Visual Studio](https://visualstudio.microsoft.com/) • [Blender](https://www.blender.org/) • [Unity](https://unity.com/) • [Krita](https://krita.org/)
 
