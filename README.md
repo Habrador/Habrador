@@ -14,8 +14,7 @@ My goal with my open source projects is that the code should by as easy as possi
 
 ## Links
 
-[Linktree](https://linktr.ee/eriknordeus) • [Twitter](https://www.twitter.com/eriknordeus) • [Artstation](https://artstation.com/eriknordeus) • [Goodreads](https://www.goodreads.com/eriknordeus) • [YouTube](https://www.youtube.com/user/eriknordeus) • [Kaggle](https://www.kaggle.com/eriknordeus) • [Itch](https://habrador.itch.io/)
-• [Tesla Simulator Game](https://habrador.itch.io/tesla-motors-simulator) • [Portfolio](https://www.habrador.com) • [Unity Tutorials](https://www.habrador.com/tutorials/) • [Blog](https://blog.habrador.com/)
+[Linktree](https://linktr.ee/eriknordeus)
 	
   
 ## FAQ
