@@ -10,11 +10,6 @@ My goal with my open source projects is that the code should by as easy as possi
 **Programming languages:** C# • Python • JavaScript • HTML • CSS • MATLAB • PHP • MySQL
 
 **Software:** [Visual Studio](https://visualstudio.microsoft.com/) • [Blender](https://www.blender.org/) • [Unity](https://unity.com/) • [Krita](https://krita.org/)
-
-
-## Links
-
-[Linktree](https://linktr.ee/eriknordeus)
 	
   
 ## FAQ
