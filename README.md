@@ -19,4 +19,6 @@ My goal with my open source projects is that the code should by as easy as possi
 
 ## THANK YOU... 
 
-...everyone who has used and contributed to my open source projects! And don't forget to follow me on **[twitter.com/eriknordeus](https://twitter.com/eriknordeus)**
+...everyone who has used and contributed to my open source projects! 
+
+If you use my code then you can always @ me on **[twitter.com/eriknordeus](https://twitter.com/eriknordeus)** and I promise to retweet! 
