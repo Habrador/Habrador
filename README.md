@@ -21,4 +21,4 @@ My goal with my open source projects is that the code should by as easy as possi
 
 ...everyone who has used and contributed to my open source projects! 
 
-If you use my code then you can always @ me on **[twitter.com/eriknordeus](https://twitter.com/eriknordeus)** and I promise to retweet! 
+If you use the code for something cool then you can @ me on **[twitter.com/eriknordeus](https://twitter.com/eriknordeus)** and I promise to retweet! 
