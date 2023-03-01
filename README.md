@@ -11,7 +11,12 @@ My goal with my open source projects is that the code should by as easy as possi
 
 **Tools:** [Visual Studio](https://visualstudio.microsoft.com/) • [Blender](https://www.blender.org/) • [Unity](https://unity.com/) • [Krita](https://krita.org/)
 	
+
+## Recent Blog Post
   
+[Books I read in 2022](https://blog.habrador.com/2022/12/books-i-read-in-2022.html)
+  
+
 ## FAQ
 
 * **Are you related to the company [Nordeus](https://nordeus.com/)?** No, my surname Nordeus is a family name. If you googled Nordeus before the Nordeus company was founded you could only find people with that name in Sweden, so I'm not sure how they got the name. But they follow me on Twitter! Kinda funny that both of us are into Unity.
