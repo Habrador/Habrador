@@ -7,9 +7,9 @@ My goal with my open source projects is that the code should by as easy as possi
 
 ## Experiences
 
-**Programming languages:** C# • Python • JavaScript • HTML • CSS • MATLAB • PHP • MySQL
+**Languages:** C# • Python • JavaScript • HTML • CSS • MATLAB • PHP • MySQL
 
-**Software:** [Visual Studio](https://visualstudio.microsoft.com/) • [Blender](https://www.blender.org/) • [Unity](https://unity.com/) • [Krita](https://krita.org/)
+**Tools:** [Visual Studio](https://visualstudio.microsoft.com/) • [Blender](https://www.blender.org/) • [Unity](https://unity.com/) • [Krita](https://krita.org/)
 	
   
 ## FAQ
