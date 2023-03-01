@@ -9,6 +9,7 @@ My goal with my open source projects is that the code should by as easy as possi
 
 * [Linktree](https://linktr.ee/eriknordeus)
 * [Twitter](https://twitter.com/eriknordeus)
+* [YouTube](https://www.youtube.com/@eriknordeus)
 
 
 ## Experiences
