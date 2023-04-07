@@ -22,7 +22,7 @@ My goal with my open source projects is that the code should by as easy as possi
 
 ## Recent Blog Post
   
-[Books I read in 2022](https://blog.habrador.com/2022/12/books-i-read-in-2022.html)
+[Bing Image Creator AI: An overview of art styles and materials you can use](https://blog.habrador.com/2023/04/bing-image-creator-ai-art-styles-materials.html)
   
 
 ## FAQ
