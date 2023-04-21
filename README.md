@@ -1,6 +1,6 @@
 ## Hi!
 
-Welcome to the #173 most popular GitHub account in the world using C# ([Source](https://git-stars.com/language/c-sharp))! The one who's running the show is me, Erik Nordeus. I'm an imagineer (creative engineer) who's designing mostly Unity and Blender projects. After finishing my mandatory military service, defending King and country, I got a master's degree in Mechanical Engineering from the Royal Institute of Technology (KTH) in Stockholm, Sweden, where I also live. The rest is history... 
+Welcome to the #173 most popular C# GitHub account in the world ([Source](https://git-stars.com/language/c-sharp))! The one who's running the show is me, Erik Nordeus. I'm an imagineer (creative engineer) who's designing mostly Unity and Blender projects. After finishing my mandatory military service, defending King and country, I got a master's degree in Mechanical Engineering from the Royal Institute of Technology (KTH) in Stockholm, Sweden, where I also live. The rest is history... 
 
 My goal with my open source projects is that the code should by as easy as possible for you to understand, so I love to comment it! I once wrote [a book about a guy called Elon Musk](https://www.habrador.com/p/elonmuskbook/), and I read somewhere that authors are the best at commenting code because they know how to explain complicated topics in a simple way. Thus I hope I will fulfill my promises!  
 
