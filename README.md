@@ -4,6 +4,9 @@ Welcome to the **#173 most starred C# GitHub account in the world** ([Source](ht
 
 My goal with my open source projects is that the code should by as easy as possible for you to understand, so I love to comment it! I once wrote [a book about a guy called Elon Musk](https://www.habrador.com/p/elonmuskbook/), and I read somewhere that authors are the best at commenting code because they know how to explain complicated topics in a simple way. Thus I hope I will fulfill my promises!  
 
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Habrador&show_icons=true&theme=transparent)
+
+
 
 ## Connect With Me
 
