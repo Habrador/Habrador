@@ -21,16 +21,8 @@ My goal with my open source projects is that the code should by as easy as possi
 
 **Languages:** C# • Python • JavaScript • HTML • CSS • MATLAB • PHP • MySQL
 
-**Tools:** [Visual Studio](https://visualstudio.microsoft.com/) • [Blender](https://www.blender.org/) • [Unity](https://unity.com/) • [Krita](https://krita.org/)
-	
+**Tools:** [Visual Studio](https://visualstudio.microsoft.com/) • [Blender](https://www.blender.org/) • [Unity](https://unity.com/) • [Krita](https://krita.org/)  
 
-## Recent Blog Posts
-  
-* [The miniature statues of Stockholm](https://blog.habrador.com/2023/10/the-miniature-statues-of-stockholm.html)
-* [How to implement colormaps like Rainbow and Viridis in code](https://blog.habrador.com/2023/04/colormaps-overview-code-implementations-rainbow-virids.html)
-* [Bing Image Creator AI: An overview of art styles and materials you can use](https://blog.habrador.com/2023/04/bing-image-creator-ai-art-styles-materials.html)
-* [Books I read in 2022](https://blog.habrador.com/2022/12/books-i-read-in-2022.html)  
-  
 
 ## FAQ
 
