@@ -12,7 +12,7 @@ My goal with my open source projects is that the code should by as easy as possi
 ## Connect With Me
 
 * 🌳[Linktree](https://linktr.ee/eriknordeus)
-* 🐦[Twitter](https://twitter.com/eriknordeus)
+* 🐦[X](https://twitter.com/eriknordeus)
 * 📺[YouTube](https://www.youtube.com/@eriknordeus)
 * 🎨[Artstation](https://www.artstation.com/eriknordeus)
 
