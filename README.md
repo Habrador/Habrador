@@ -4,7 +4,9 @@ Welcome to the **#6021 most starred GitHub account in the world** ([Source](http
 
 <!--![GitHub Repo stars](https://www.habrador.com/GitHubData/test.svg)-->
 
-![GitHub Repo stars](https://img.shields.io/github/stars/Habrador?style=for-the-badge)
+<!--![GitHub Repo stars](https://img.shields.io/github/stars/Habrador?style=for-the-badge)-->
+
+![GitHub Repo stars](https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub%20Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/Habrador)
 
 The one who's running the show is me, Erik Nordeus. I'm an imagineer (creative engineer) who's interested in the intersection between art and engineering. I design mostly Unity and Blender projects. After finishing my mandatory military service, defending King and country, I got a master's degree in Mechanical Engineering from the Royal Institute of Technology (KTH) in Stockholm, Sweden, where I also live. The rest is history... 
 
