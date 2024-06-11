@@ -2,7 +2,7 @@
 
 Welcome to the **#6021 most starred GitHub account in the world** ([Source](https://gitstar-ranking.com/Habrador)) and the **#124 most followed account in Sweden** ([Source](https://github.com/gayanvoice/top-github-users/blob/main/markdown/followers/sweden.md))!
 
-![GitHub Repo stars](https://img.shields.io/github/stars/Habrador?style=for-the-badge)
+![GitHub Repo stars](https://www.habrador.com/GitHubData/test.svg)
 
 The one who's running the show is me, Erik Nordeus. I'm an imagineer (creative engineer) who's interested in the intersection between art and engineering. I design mostly Unity and Blender projects. After finishing my mandatory military service, defending King and country, I got a master's degree in Mechanical Engineering from the Royal Institute of Technology (KTH) in Stockholm, Sweden, where I also live. The rest is history... 
 
