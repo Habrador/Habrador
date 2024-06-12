@@ -18,7 +18,7 @@ Another goal is to become the top 1000 most starred GitHub account in the world.
 ## Connect With Me
 
 * 🌳[Linktree](https://linktr.ee/eriknordeus)
-* 🐦[X](https://twitter.com/eriknordeus)
+* 🐦[X](https://x.com/eriknordeus)
 * 📺[YouTube](https://www.youtube.com/@eriknordeus)
 * 🎨[Artstation](https://www.artstation.com/eriknordeus)
 
