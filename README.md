@@ -34,4 +34,4 @@ Another goal is to become the top 1000 most starred GitHub account in the world.
 
 ...everyone who has used and contributed to my open source projects! 
 
-If you use the code for something cool then you can @ me on **[twitter.com/eriknordeus](https://twitter.com/eriknordeus)** and I promise to retweet! 
+If you use the code for something cool then you can @ me on **[x.com/eriknordeus](https://x.com/eriknordeus)** and I promise to retweet! 
