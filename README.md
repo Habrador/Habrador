@@ -8,6 +8,8 @@ Welcome to the **top 6000 most starred GitHub account in the world** ([Source](h
 
 ![GitHub Repo stars](https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub%20Stars&style=for-the-badge&query=stars&url=https://api.github-star-counter.workers.dev/user/Habrador)
 
+<!-- Backup if the above doesnt work https://img.shields.io/badge/4378-blue?style=for-the-badge&label=GitHub%20Stars&logo=github  -->
+
 The one who's running the show is me, Erik Nordeus. I'm an imagineer (creative engineer) who's interested in the intersection between art and engineering. I design mostly Unity and Blender projects. After finishing my mandatory military service, defending King and country, I got a master's degree in Mechanical Engineering from the Royal Institute of Technology (KTH) in Stockholm, Sweden, where I also live. The rest is history... 
 
 My goal with my open source projects is that the code should by as easy as possible for you to understand, so I love to comment it and make it as simple as possible! I once wrote [a book about a guy called Elon Musk](https://www.habrador.com/p/elonmuskbook/) (written in 2013 before he became more controversial), and I read somewhere that authors are the best at commenting code because they know how to explain complicated topics in a simple way. Thus I hope I will fulfill my promises!
