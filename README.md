@@ -2,13 +2,14 @@
 
 Welcome to the **top 6000 most starred GitHub account in the world** ([Source](https://gitstar-ranking.com/Habrador)) and the **#128 most followed account in Sweden** ([Source](https://github.com/gayanvoice/top-github-users/blob/main/markdown/followers/sweden.md))!
 
-<!--![GitHub Repo stars](https://www.habrador.com/GitHubData/test.svg)-->
+<!-- Will count total stars but rounds it to like 4.9k which is annoying -->
+<!-- ![GitHub Repo stars](https://img.shields.io/github/stars/Habrador?style=for-the-badge) -->
 
-<!--![GitHub Repo stars](https://img.shields.io/github/stars/Habrador?style=for-the-badge)-->
+<!-- Get total stars automatically from website which doesnt always work for some reason... -->
+<!-- ![GitHub Repo stars](https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub%20Stars&style=for-the-badge&query=stars&url=https://api.github-star-counter.workers.dev/user/Habrador) -->
 
-![GitHub Repo stars](https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub%20Stars&style=for-the-badge&query=stars&url=https://api.github-star-counter.workers.dev/user/Habrador)
-
-<!-- Backup if the above doesnt work https://img.shields.io/badge/4378-blue?style=for-the-badge&label=GitHub%20Stars&logo=github  -->
+<!-- Fill in total stars manually by going to the website https://api.github-star-counter.workers.dev/user/Habrador -->
+![GitHub Repo stars](https://img.shields.io/badge/4876-blue?style=for-the-badge&label=GitHub%20Stars&logo=github)
 
 The one who's running the show is me, Erik Nordeus. I'm an imagineer (creative engineer) who's interested in the intersection between art and engineering. I design mostly Unity and Blender projects. After finishing my mandatory military service, defending King and country, I got a master's degree in Mechanical Engineering from the Royal Institute of Technology (KTH) in Stockholm, Sweden, where I also live. The rest is history... 
 
