@@ -15,19 +15,11 @@ My goal with my open source projects is that the code should by as easy as possi
 Another goal is to become the top 1000 most starred GitHub account in the world. That would today require a total of 16000 stars. Wish me luck on that one! 
 
 
-## Connect With Me
-
-* 🌳[Linktree](https://linktr.ee/eriknordeus)
-* 🐦[X](https://x.com/eriknordeus)
-* 📺[YouTube](https://www.youtube.com/@eriknordeus)
-* 🎨[Artstation](https://www.artstation.com/eriknordeus)
-
-
 ## Experiences
 
 **Languages:** C# • Python • JavaScript • HTML • CSS • MATLAB • PHP • MySQL
 
-**Tools:** [Visual Studio](https://visualstudio.microsoft.com/) • [Blender](https://www.blender.org/) • [Unity](https://unity.com/) • [Krita](https://krita.org/)  
+**Tools:** [Visual Studio](https://visualstudio.microsoft.com/) • [Blender](https://www.blender.org/) • [Unity](https://unity.com/) • [Wordpress](https://wordpress.com/)  
 
 
 ## FAQ
