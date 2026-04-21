@@ -3,7 +3,7 @@
 Welcome to the **top 6000 most starred GitHub account in the world** ([Source](https://gitstar-ranking.com/Habrador)) and the **#128 most followed account in Sweden** ([Source](https://github.com/gayanvoice/top-github-users/blob/main/markdown/followers/sweden.md))!
 
 <!-- Will count total stars but rounds it to like 4.9k which is annoying. To see actual total stars go to website below -->
-![GitHub Repo stars](https://img.shields.io/github/stars/Habrador?style=for-the-badge&logo=github&label=Total%20GitHub%20Stars)
+![GitHub User's stars](https://img.shields.io/github/stars/Habrador?style=for-the-badge&logo=GitHub&label=Total%20github%20stars)
 
 <!-- Get total stars automatically from website which doesnt always work for some reason... -->
 <!-- ![GitHub Repo stars](https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub%20Stars&style=for-the-badge&query=stars&url=https://api.github-star-counter.workers.dev/user/Habrador) -->
